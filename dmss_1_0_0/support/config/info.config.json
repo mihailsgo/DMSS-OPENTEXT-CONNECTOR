@@ -1,0 +1,5 @@
+{
+    "GATEWAY_TICKET_API": "http://localhost:8182/api/auth/session",
+    "EXT_PORTAL_HOST_URL": "http://dmee-keit-new.digitalmind.lv:3000",
+    "ALLOWED_MIMETYPES": ["application/vnd.etsi.asic-e+zip", "application/pdf"]
+}

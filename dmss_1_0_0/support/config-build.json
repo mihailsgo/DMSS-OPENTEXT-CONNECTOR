@@ -1,0 +1,23 @@
+{
+  "paths": {
+    "csui": "empty:",
+    "dmss": ".",
+    "hbs": "../lib/src/csui/lib/hbs",
+    "css": "../lib/src/csui/lib/css",
+    "csui-ext": "../lib/src/csui/utils/load-extensions/load-extensions",
+    "i18n": "../lib/src/csui/lib/i18n",
+    "json": "../lib/src/csui/lib/json",
+    "less": "../lib/src/csui/lib/less",
+    "txt": "../lib/src/csui/lib/text",
+    "csui/lib/css-builder": "../lib/src/csui/lib/css-builder",
+    "csui/lib/handlebars": "../lib/src/csui/lib/handlebars",
+    "csui/lib/i18nprecompile": "../lib/src/csui/lib/i18nprecompile",
+    "csui/lib/normalize": "../lib/src/csui/lib/normalize",
+    "csui/lib/underscore": "../lib/src/csui/lib/underscore"
+  },
+  "hbs": {
+    "disableI18n": true,
+    "disableHelpers": true,
+    "templateExtension": "hbs"
+  }
+}
