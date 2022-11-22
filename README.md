@@ -1,5 +1,5 @@
 # DMSS OPENTEXT SS CONNECTOR
- CS 22.X+ OT CONNECTOR
+ CS 22.X+ OT SignBox CONNECTOR
 
 1. Adds new menu item to action toolbar with name 'Sign Document'.
 2. Menu element is active only when such conditions are met:
