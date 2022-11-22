@@ -11,3 +11,8 @@
    2.3. Constant ALLOWED_MIMETYPES is defining allowed mime types (info.config.json).
 
 3. After button 'Sign Document' is pressed user should be redirect to SignBox alternative view portal (access details are defined in info.config.json).
+
+TODO:
+
+1. Develope scenario with container creation.
+2. Define if middle-view interface is needed for such cases.
